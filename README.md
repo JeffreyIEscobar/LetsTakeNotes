@@ -45,7 +45,4 @@ Welcome to **Let's Take Notes**, a simple and user-friendly web-based note-takin
 - Enjoy Let's Take Notes! 🚀
 
 
-## Getting Started
-
-1. Clone this repository to your local machine.
 
