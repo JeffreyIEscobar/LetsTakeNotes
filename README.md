@@ -1,6 +1,6 @@
 # Let's Take Notes 📝
 
-Welcome to **Let's Take Notes**, a simple and user-friendly web-based note-taking application that allows you to create, manage, and save your notes as PDF files. Whether you're jotting down ideas, keeping track of tasks, or simply taking notes, our app has got you covered!
+Welcome to **Let's Take Notes**, a simple and user-friendly web-based note-taking application that allows you to create, manage, and save your notes as PDF files. Whether you're jotting down ideas, keeping track of tasks, or simply taking notes, this app has got you covered!
 
 ## Technologies Used
 
