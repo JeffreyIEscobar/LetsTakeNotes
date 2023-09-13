@@ -34,7 +34,7 @@ Welcome to **Let's Take Notes**, a simple and user-friendly web-based note-takin
 
 ## Contributing
 
-- Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
 
 ## License
 
