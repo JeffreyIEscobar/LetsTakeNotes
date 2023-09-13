@@ -39,10 +39,11 @@ Welcome to **Let's Take Notes**, a simple and user-friendly web-based note-takin
 ## License
 
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-- Happy note-taking! If you have any questions or feedback, don't hesitate to contact me at jeffreyianescobar@gmail.com
-
 - Enjoy Let's Take Notes! 🚀
+
+## Contact
+
+For questions or feedback, please contact Jeffrey I. Escobar via Jeffreyianescobar@gmail.com
 
 
 
