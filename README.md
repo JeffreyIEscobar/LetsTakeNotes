@@ -43,7 +43,7 @@ Contributions are welcome! If you'd like to enhance or customize this applicatio
 
 ## Contact
 
-For questions or feedback, please contact Jeffrey I. Escobar via Jeffreyianescobar@gmail.com
+For questions or feedback, please contact Jeffrey Escobar via Jeffreyianescobar@gmail.com
 
 
 
